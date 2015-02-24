@@ -71,7 +71,7 @@ public class TFWeights {
 			System.out.println("Time Taken : " + (endTime - startTime) + "(ms)");
 		}
 		catch(Exception e){
-			System.out.println("Exception : " + e.getMessage());
+			System.out.println("Exception Main program: " + e.getMessage());
 		}
 	}
 
